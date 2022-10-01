@@ -7,8 +7,8 @@ const Carosel = () => {
             <Carousel>
                 <Carousel.Item>
                     <img
-                        className="d-block w-100"
-                        src="holder.js/800x400?text=First slide&bg=373940"
+                        className="d-block w-100 h-70"
+                        src="https://wowslider.com/sliders/demo-93/data1/images/lake.jpg"
                         alt="First slide"
                     />
                     <Carousel.Caption>
@@ -18,8 +18,8 @@ const Carosel = () => {
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
-                        className="d-block w-100"
-                        src="holder.js/800x400?text=Second slide&bg=282c34"
+                        className="d-block w-100 h-75"
+                        src="https://wowslider.com/sliders/demo-93/data1/images/sunset.jpg"
                         alt="Second slide"
                     />
 
@@ -30,8 +30,8 @@ const Carosel = () => {
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
-                        className="d-block w-100"
-                        src="holder.js/800x400?text=Third slide&bg=20232a"
+                        className="d-block w-100 h-70"
+                        src="https://wowslider.com/sliders/demo-93/data1/images/landscape.jpg"
                         alt="Third slide"
                     />
 
