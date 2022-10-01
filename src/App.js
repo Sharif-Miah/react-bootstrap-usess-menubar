@@ -1,11 +1,13 @@
-import { Button } from 'react-bootstrap'
+
 import './App.css';
+import Carosel from './component/Carosel/Carosel';
+import Navber from './component/Navbar/Navber';
 
 function App() {
   return (
     <div className="App">
-      <Button>Click Here</Button>
-      <Button variant='success'>Another</Button>
+      <Navber />
+
     </div>
   );
 }
